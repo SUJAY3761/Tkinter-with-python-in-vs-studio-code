@@ -1,0 +1,5 @@
+root.title("calculator")
+root.iconbitmap('apple.ico.ico')
+root.geometry("500x1000")
+# use x("ex") for dimensions 
+# ("breadth x length")
